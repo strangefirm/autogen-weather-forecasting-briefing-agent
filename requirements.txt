@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-ext[openai]
+ddgs
+streamlit
+pandas
+requests
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+protobuf~=5.29.3
